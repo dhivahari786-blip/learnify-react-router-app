@@ -133,7 +133,7 @@
   "bugs": {
     "url": "https://github.com/dhivahari786-blip/learnify-react-router-app/issues"
   },
-  "homepage": "https://github.com/dhivahari786-blip/learnify-react-router-app#readme",
+
   "devDependencies": {
     "@vitejs/plugin-react": "^6.0.1",
     "gh-pages": "^6.3.0",
